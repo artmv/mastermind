@@ -1,1 +1,3 @@
 # mastermind
+
+few changes
