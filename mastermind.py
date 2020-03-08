@@ -1,4 +1,4 @@
-# Mastermind boardgame: to find combination of 4 colors (allowing duplicates) of 8.
+# Mastermind board game: to find combination of 4 colors (allowing duplicates) of 8.
 # 8 ^ 4 = 4096 possible combinations
 # code applies algorithm suggested by Donald Knuth
 import re
