@@ -1,3 +1,0 @@
-# mastermind
-
-few changes
